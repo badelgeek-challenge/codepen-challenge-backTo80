@@ -122,9 +122,9 @@ h1 {
 
 
 .play {
-   display: grid;
-   place-items: center;
    display:none;
+   place-items: center;
+   
 }
 
 .button {
@@ -136,6 +136,7 @@ h1 {
    border-radius: 8px;
    text-decoration:none;
    box-shadow: 1px 1px 4px gray;
+   margin-bottom: 3rem;
 }
 
 .button:hover {
